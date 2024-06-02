@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "79E16B3D-1EE1-401D-8A14-2493C8247615"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B0E9D6B-9A51-4A41-8B12-1BC8C39707A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API1 Q/mainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0C0ADC0-88DC-4D2C-944F-8CEBE424B182"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API1 Q/mainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56ED63B5-C8DA-4E06-8C7D-E3AD94AB961F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API1 Q/mainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05D2BB0D-C0E1-4B11-A2D5-93C79EFE028A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API1 Q/mainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8690687D-A099-46EB-B0AF-F61B81AD48A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API1 Q/mainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8690687D-A099-46EB-B0AF-F61B81AD48A9 - e31443ed7de572dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;API1_Q.MoviesResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in API1_Q.MainViewController.getData() -&gt; ()"
+                  moduleName = "API1 Q"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2004/Desktop/Quralai%20tasks/API1%20Q/API1%20Q/mainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+               <Location
+                  uuid = "8690687D-A099-46EB-B0AF-F61B81AD48A9 - e31443ed7de572dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;API1_Q.MoviesResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in API1_Q.MainViewController.getData() -&gt; ()"
+                  moduleName = "API1 Q"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2004/Desktop/Quralai%20tasks/API1%20Q/API1%20Q/mainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "8690687D-A099-46EB-B0AF-F61B81AD48A9 - e31443ed7de572dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;API1_Q.MoviesResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in API1_Q.MainViewController.getData() -&gt; ()"
+                  moduleName = "API1 Q"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2004/Desktop/Quralai%20tasks/API1%20Q/API1%20Q/mainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "464">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE93A020-566F-4930-8366-671334C2AA76"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API1 Q/Results.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetchJsonData(urlString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE93A020-566F-4930-8366-671334C2AA76 - b10c5ac223b9da80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in API1_Q.Service.fetchJsonData(urlString: Swift.String, completion: (Swift.Optional&lt;API1_Q.MoviesResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "API1 Q"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2004/Desktop/Quralai%20tasks/API1%20Q/API1%20Q/Results.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "AE93A020-566F-4930-8366-671334C2AA76 - b10c5ac223b9da80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in API1_Q.Service.fetchJsonData(urlString: Swift.String, completion: (Swift.Optional&lt;API1_Q.MoviesResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "API1 Q"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2004/Desktop/Quralai%20tasks/API1%20Q/API1%20Q/Results.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "AE93A020-566F-4930-8366-671334C2AA76 - b10c5ac223b9da80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in API1_Q.Service.fetchJsonData(urlString: Swift.String, completion: (Swift.Optional&lt;API1_Q.MoviesResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "API1 Q"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2004/Desktop/Quralai%20tasks/API1%20Q/API1%20Q/Results.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "AE93A020-566F-4930-8366-671334C2AA76 - b10c5ac223b9dabf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in API1_Q.Service.fetchJsonData(urlString: Swift.String, completion: (Swift.Optional&lt;API1_Q.MoviesResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "API1 Q"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2004/Desktop/Quralai%20tasks/API1%20Q/API1%20Q/Results.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "AE93A020-566F-4930-8366-671334C2AA76 - b10c5ac223b9dabf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in API1_Q.Service.fetchJsonData(urlString: Swift.String, completion: (Swift.Optional&lt;API1_Q.MoviesResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "API1 Q"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2004/Desktop/Quralai%20tasks/API1%20Q/API1%20Q/Results.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F303E76-54F3-426B-9819-88FACFCF23C3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API1 Q/Results.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchJsonData(urlString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2F303E76-54F3-426B-9819-88FACFCF23C3 - b10c5ac223b9da3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in API1_Q.Service.fetchJsonData(urlString: Swift.String, completion: (Swift.Optional&lt;API1_Q.MoviesResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "API1 Q"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2004/Desktop/Quralai%20tasks/API1%20Q/API1%20Q/Results.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  uuid = "2F303E76-54F3-426B-9819-88FACFCF23C3 - b10c5ac223b9da3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in API1_Q.Service.fetchJsonData(urlString: Swift.String, completion: (Swift.Optional&lt;API1_Q.MoviesResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "API1 Q"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2004/Desktop/Quralai%20tasks/API1%20Q/API1%20Q/Results.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "2F303E76-54F3-426B-9819-88FACFCF23C3 - b10c5ac223b9da5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in API1_Q.Service.fetchJsonData(urlString: Swift.String, completion: (Swift.Optional&lt;API1_Q.MoviesResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "API1 Q"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2004/Desktop/Quralai%20tasks/API1%20Q/API1%20Q/Results.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C51BB75-F128-4A14-BDE6-C9D0B554070B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API1 Q/Results.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchJsonData(urlString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6C51BB75-F128-4A14-BDE6-C9D0B554070B - b10c5ac223b9dbd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in API1_Q.Service.fetchJsonData(urlString: Swift.String, completion: (Swift.Optional&lt;API1_Q.MoviesResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "API1 Q"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2004/Desktop/Quralai%20tasks/API1%20Q/API1%20Q/Results.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "920">
+               </Location>
+               <Location
+                  uuid = "6C51BB75-F128-4A14-BDE6-C9D0B554070B - b10c5ac223b9dbd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in API1_Q.Service.fetchJsonData(urlString: Swift.String, completion: (Swift.Optional&lt;API1_Q.MoviesResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "API1 Q"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2004/Desktop/Quralai%20tasks/API1%20Q/API1%20Q/Results.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "816">
+               </Location>
+               <Location
+                  uuid = "6C51BB75-F128-4A14-BDE6-C9D0B554070B - b10c5ac223b9dbf5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in API1_Q.Service.fetchJsonData(urlString: Swift.String, completion: (Swift.Optional&lt;API1_Q.MoviesResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "API1 Q"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2004/Desktop/Quralai%20tasks/API1%20Q/API1%20Q/Results.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "816">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B8A41BF-B6F9-411C-BFCB-241AF6E881A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API1 Q/Results.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchJsonData(urlString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4B8A41BF-B6F9-411C-BFCB-241AF6E881A4 - b10c5ac223b9dabf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in API1_Q.Service.fetchJsonData(urlString: Swift.String, completion: (Swift.Optional&lt;API1_Q.MoviesResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "API1 Q"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2004/Desktop/Quralai%20tasks/API1%20Q/API1%20Q/Results.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "4B8A41BF-B6F9-411C-BFCB-241AF6E881A4 - b10c5ac223b9dabf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in API1_Q.Service.fetchJsonData(urlString: Swift.String, completion: (Swift.Optional&lt;API1_Q.MoviesResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "API1 Q"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2004/Desktop/Quralai%20tasks/API1%20Q/API1%20Q/Results.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "4B8A41BF-B6F9-411C-BFCB-241AF6E881A4 - b10c5ac223b9dade"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in API1_Q.Service.fetchJsonData(urlString: Swift.String, completion: (Swift.Optional&lt;API1_Q.MoviesResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "API1 Q"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2004/Desktop/Quralai%20tasks/API1%20Q/API1%20Q/Results.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
